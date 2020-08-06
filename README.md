@@ -5,4 +5,3 @@ The purpose of the challenge is to create a web scraper to scrape articles from 
 # How to use it ?
 To simplify the implementation and testing of my solution , I opted for the Google Colab online IDE , so that testing could be done on a remote repository without setting a Docker image or implementing a python env from scratch on a local machine.
 Open the notebook on Google Colab , set the links of the Mongodb Atlas cluster and the WashingtonPost article's link and finally run the Flask server and test it with Postman using ngrok exposed link.
-![alt text](https://pasteboard.co/Jl2OAeH1.png)
